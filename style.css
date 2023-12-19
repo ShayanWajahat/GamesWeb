@@ -1,0 +1,10 @@
+/* #navbarSupportedContent{
+    gap: 60px;
+} */
+#nava{
+    border-radius: 7px;
+}
+#nava:hover{
+    background-color: rgb(153, 153, 153);
+    color: white;
+}
